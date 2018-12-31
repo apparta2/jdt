@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "FAQ",
     "versionFirst": "2.11",
     "versionPublish": "4.8.10",
     "name": "jourdethese",
@@ -104,7 +104,7 @@
             "overlayOpacity": 0.5
           },
           "title": "LE JOUR  QUE VOUS N'OUBLIEREZ PAS",
-          "text": "Enfin le grand jour.au bout de 10 ans <br>d’études votre diplôme.<br>L’aboutissement de 10 ans <br>reconnu et consacré par un  diplôme.<br>Conservez le souvenir de ce jour<br>",
+          "text": "Enfin le grand jour au bout de 10 ans <br>d’études votre diplôme.<br>L’aboutissement de 10 ans <br>reconnu et consacré par un  diplôme.<br>Conservez le souvenir de ce jour unique.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#content4-6\" data-toolbar=\"-mbrBtnMove\">PLUS</a> "
         },
         {
@@ -546,13 +546,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/commande-600x600-74.png",
+              "src": "@PROJECT_PATH@/assets/images/commande-192x194.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -570,9 +569,12 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/resa-192x194.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -590,13 +592,12 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cash-600x600-69.png",
+              "src": "@PROJECT_PATH@/assets/images/tranquil-192x194.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -614,13 +615,12 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/blocks-600x600-86.png",
+              "src": "@PROJECT_PATH@/assets/images/change-300x300.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -638,13 +638,12 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/unlimited-websites-600x600-77.png",
+              "src": "@PROJECT_PATH@/assets/images/perso-300x300.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
