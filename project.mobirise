@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "FAQ",
+    "currentPage": "index.html",
     "versionFirst": "2.11",
     "versionPublish": "4.8.10",
     "name": "jourdethese",
@@ -18,8 +18,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "bienvenue",
+        "meta_descr": "LE JOUR QUE VOUS N'OUBLIEREZ PAS",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -278,25 +278,25 @@
           "price1": "149€",
           "period1": "",
           "list1": "<ul><li><b>PACK DE BASE<br>VOIR DETAILS</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://jourdethese.esy.es/exemples\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">EXEMPLE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"eemples.exemples.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">EXEMPLE</a>",
           "title2": "MONTAGE",
           "currency2": "",
           "price2": "249€",
           "period2": "&nbsp;",
           "list2": "<ul><li><b>IDEM PACK STANDARD<br>PLUS MONTAGE DVD NUMERIQUE </b></li><li><b>AVEC MENU DES TEMPS FORTS DE LA THESE</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://jourdethese.esy.es/exemples\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EXEMPLE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"eemples.exemples.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">EXEMPLE</a>",
           "title3": "PREMIUM",
           "currency3": "",
           "price3": "349€",
           "period3": "&nbsp;",
           "list3": "<ul><li><b>IDEM PACK MONTAGE<br>PLUS VERSION SONORISEE<br>MUSIQUE ETACCOMPAGNEMENT D'AMBIANCE</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://jourdethese.esy.es/exemples\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EXEMPLE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"eemples.exemples.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">EXEMPLE</a>",
           "title4": "ULTIMATE",
           "currency4": "",
           "price4": "499€",
           "period4": "&nbsp;",
           "list4": "<ul><li><b>PACK PREMIUM<br>PLUS BOOK DE PRESENTATION <br>TYPE ALBUM PHOTOS SOUVENIRS</b></li><li><b>SUR PAPIER GLACE</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"http://jourdethese.esy.es/exemples\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EXEMPLE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"eemples.exemples.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">EXEMPLE</a>",
           "title5": "EXTENDED",
           "currency5": "$",
           "price5": "0",
@@ -323,19 +323,21 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "placeId": "ChIJtcaxrqlZwokRfwmmibzPsTU",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "27 rue rebeval\n75019,paris",
+              "placeId": "ChIJlaYgledt5kcRd9l-gvyiips",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>ADRESSE</strong><br>27 RUE DE REBEVAL<br>75019 PARIS<br><br>\n<strong>CONTACTS</strong><br>\nEmail: &nbsp;jourdethese@gmail.com<br>\nPhone: &nbsp;+ 33 1 77 47 36 50<br>&nbsp;<br><br>Service aux étudiants<br><br>FAQ",
-          "text2": "<p class=\"mbr-contacts__text\"><b>LIENS</b></p><p class=\"mbr-contacts__text\">En général les bureaux de 3eme Cycle des facultés gèrent les  Soutenances de thèses et peuvent proposer les services de notre association. <br>Si vous souhaitez recevoir des prospectus de notre association pour proposer ce service aux étudiants<br></p><p class=\"mbr-contacts__text\"><br>LIENS UTILES</p><p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>"
+          "text1": "<strong>ADRESSE</strong><br>27 RUE DE REBEVAL<br>75019 PARIS<br><br>\n<strong>CONTACTS</strong><br>\nEmail: &nbsp;<br><a href=\"mailto:jourdethese@gmail.com\">jourdethese@gmail.com</a><br>Téléphone: <br>&nbsp;+ 33 1 77 47 36 50<br>&nbsp;<br><b>Service aux étudiants</b><br><br><b>FAQ</b>",
+          "text2": "<p class=\"mbr-contacts__text\">LIENS</p><p class=\"mbr-contacts__text\">En général les bureaux de 3eme Cycle des facultés gèrent les  Soutenances de thèses et peuvent proposer les services de notre association. <br>Si vous souhaitez recevoir des prospectus de notre association pour proposer ce service aux étudiants<br></p><p class=\"mbr-contacts__text\"><br><b>LIENS UTILES</b></p><p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><br></li></ul>"
         }
       ]
     },
-    "exemples": {
+    "eemples.exemples.html": {
       "settings": {
-        "title": "VIDEOS  EXEMPLES"
+        "title": "VIDEOS  EXEMPLES",
+        "meta_descr": "voiur des exemples de video de these"
       },
       "components": [
         {
@@ -464,7 +466,7 @@
         }
       ]
     },
-    "FAQ": {
+    "faq.FAQ.html": {
       "settings": {
         "title": "FOIRE AUX QUESTIONS",
         "meta_descr": "Toutes les questions que vous vous posez"
